@@ -27,6 +27,26 @@ PUT    http://localhost:12345/posts/1
 
 DELETE http://localhost:12345/posts/1
 
+GET    http://localhost:12345/users
+
+GET    http://localhost:12345/users/1
+
+POST   http://localhost:12345/users
+
+PUT    http://localhost:12345/users/1
+
+DELETE http://localhost:12345/users/1
+
+GET    http://localhost:12345/comments
+
+GET    http://localhost:12345/comments/1
+
+POST   http://localhost:12345/comments
+
+PUT    http://localhost:12345/comments/1
+
+DELETE http://localhost:12345/comments/1
+
 7. View this documentation for more info: 
 
 https://www.npmjs.com/package/json-server
