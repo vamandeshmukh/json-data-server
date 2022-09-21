@@ -1,0 +1,28 @@
+
+
+
+use cases - 
+
+as admin -
+view all users 
+remove user  
+
+as blogger - 
+register 
+login 
+logout
+create post 
+update post
+delete post
+
+create comment on our own or other's posts
+update comment 
+delete comment 
+
+search posts 
+read post 
+ 
+as reader 
+
+search posts 
+read post 
