@@ -1,13 +1,18 @@
 
-
+Deloitte Blogger App 
+====================
 
 use cases - 
 
-as admin -
-view all users 
-remove user  
+as reader 
+---------
+
+search posts 
+read post 
 
 as blogger - 
+------------
+
 register 
 login 
 logout
@@ -22,7 +27,14 @@ delete comment
 search posts 
 read post 
  
-as reader 
+=======================
+optional functionality
 
-search posts 
-read post 
+as admin -
+
+view all users 
+remove user  
+=======================
+
+
+
